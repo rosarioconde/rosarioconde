@@ -2,8 +2,8 @@
 
 ### Web Developer Frontend
 
-- 🔭 I’m currently working on Vue
-- 🌱 I’m currently learning React, Docker
+- 🔭 I’m currently working on React | Next | Nest
+
 - 💬 Ask me about anything [here][website]
 ---
 ### Coding
