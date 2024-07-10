@@ -1,7 +1,6 @@
 
 # 💫 ¡Hola, mundo!
-🚀 Soy Rosario, Developer Frontend:<br><br>
-
+🚀 Soy Rosario, Developer Frontend.
 👩‍💻 En el teclado, estoy: <br>
 Desarrollando con React, Vue y otros sabores de JavaScript, aportando mi granito de arena al mundo del desarrollo y compartiendo conocimiento en ORT Argentina.
 <br>
@@ -21,10 +20,7 @@ Desarrollando con React, Vue y otros sabores de JavaScript, aportando mi granito
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🎶 Music
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11151682703&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)<br/>
-
-
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=rosarioconde&icon=8&color=5)](https://visitcount.itsvg.in)
 
