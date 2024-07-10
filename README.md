@@ -1,6 +1,6 @@
 
 # 💫 ¡Hola, mundo!
-🚀 Soy Rosario, Developer Frontend.
+🚀 Soy Rosario, Developer Frontend. <br>
 👩‍💻 En el teclado, estoy: <br>
 Desarrollando con React, Vue y otros sabores de JavaScript, aportando mi granito de arena al mundo del desarrollo y compartiendo conocimiento en ORT Argentina.
 <br>
