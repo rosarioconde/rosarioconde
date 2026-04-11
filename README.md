@@ -5,8 +5,6 @@
 Desarrollando con React, Vue y otros sabores de JavaScript, aportando mi granito de arena al mundo del desarrollo y compartiendo conocimiento en ORT Argentina.
 <br>
 
-🤝 Estoy buscando colaborar en:<br>Proyectos innovadores que necesiten un toque creativo y técnico en frontend, aunque mi tiempo es limitado. Ideal para sprint colaborativos o consultoría de código.<br><br>🙋‍♀️ Estoy buscando ayuda con:<br>Expandir mis horizontes en el desarrollo de aplicaciones mobile y refinar mis habilidades de backend. ¡Cualquier mentoría o recursos serían muy apreciados!<br><br>🌱 Actualmente estoy aprendiendo:<br>A mejorar mi fluidez en inglés técnico.<br>
-
 
 
 ## 🌐 Socials:
